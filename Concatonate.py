@@ -87,9 +87,3 @@ root.mainloop()                                                         # main l
 
 
 
-"""
-1. print box of items the rows
-2. convert to exe
-"""
-
-
